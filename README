@@ -4,6 +4,9 @@ Ruby Blue is a collection of themes for different text editors that mimic the
 colors used in the code samples on the website for the Ruby programming
 language (http://ruby-lang.org).
 
+If you create a theme for your editor of choice please fork this project and
+add it.
+
 = Licence
 
 Copyright (c) 2009, John W. Long.
