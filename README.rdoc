@@ -7,13 +7,21 @@ language (http://ruby-lang.org).
 If you create a theme for your editor of choice please fork this project and
 add it.
 
-== TextMate
+== TextMate 1
 
 To install:
 
 1. Download RubyBlue.tmTheme
 2. Copy it to: /Applications/TextMate.app/Contents/SharedSupport/Themes/
 3. Switch to the theme under: Preferences > Fonts & Colors
+
+== TextMate 2
+
+To install:
+
+1. Download RubyBlue.tmBundle
+2. Copy it to: ~/Library/Application Support/Avian/Bundles/
+3. Switch to the theme under: View > Theme
 
 == VIM
 
