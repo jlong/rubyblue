@@ -162,6 +162,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>String (single quote)</string>
+			<key>scope</key>
+			<string>string.quoted.single</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7CFF3C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String escapes</string>
 			<key>scope</key>
 			<string>string constant.character.escape</string>
